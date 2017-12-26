@@ -1,0 +1,149 @@
+.retrie:after {
+    background: none;
+}
+
+.service {
+    position: relative;
+}
+
+.service:after {
+    content: '';
+    width: 34px;
+    height: 4px;
+    display: block;
+    position: absolute;
+    bottom: -10px;
+    background: #1996e7;
+    left: 2px;
+}
+
+
+/*下载历史7575*/
+
+.bod-con {
+    background: #f8faff;
+    padding-top: 50px;
+}
+
+.his-con,
+.fail-con {
+    float: left;
+    width: 48%;
+    margin-right: 1%;
+    border-top: 6px solid #1996e7;
+    box-shadow: 0 0 9px 0 rgba(0, 0, 0, 0.2);
+    background: #fff;
+    font-size: 1.6rem;
+    font-size: 16px;
+    color: #1996e7;
+    padding-left: 30px;
+    padding-right: 40px;
+    height: 780px;
+}
+
+.his-con {
+    margin-left: 1%;
+}
+
+.fail-con {
+    margin-right: 0%;
+    margin-left: 1%;
+}
+
+.tit {
+    position: relative;
+    line-height: 70px;
+}
+
+.tit-num {
+    font-size: 3.0rem;
+    font-size: 30px;
+    line-height: 70px;
+}
+
+.tit:before {
+    content: '';
+    width: 4px;
+    height: 18px;
+    background: #1996e7;
+    position: absolute;
+    top: 26px;
+    left: -10px;
+}
+
+.cob3 {
+    color: #b3b3b3;
+}
+
+.coef {
+    color: #efcd78;
+}
+
+.his-item {
+    height: 40px;
+    line-height: 40px;
+}
+
+.his-item-kind {
+    margin-right: 15px;
+}
+
+.his-item-user {
+    margin-right: 30px;
+}
+
+.his-check {
+    margin-left: 20px;
+}
+
+.his-box {
+    padding-bottom: 15px;
+    height: 615px;
+}
+
+
+
+/* 颜色 */
+
+.c6b {
+    color: #6bc6f9 !important;
+}
+
+.cef {
+    color: #efcd78 !important;
+}
+
+.c2a {
+    color: #c2ace5 !important;
+}
+
+.his-item-name {
+    width: 160px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+
+/* 分页 */
+
+#pageContainers .laypage_main {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#pageContainer .laypage_main {
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* 波纹背景 */
+.sbg{position: absolute; left: 0; bottom:0;}
+.bod-con{position: relative; height: 900px;}
+.hedcon{position: relative; z-index:999;}
+.widif{position: relative; z-index:99;}
+html{overflow-x:hidden;}
+
+
+.his-item-name-wid{width:119px;}
+.his-item-oper{width:98px; text-align: center;}

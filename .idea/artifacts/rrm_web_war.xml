@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="rrm-web:war">
+    <output-path>$PROJECT_DIR$/rrm-web/target</output-path>
+    <root id="archive" name="RRM.war">
+      <element id="artifact" artifact-name="rrm-web:war exploded" />
+    </root>
+  </artifact>
+</component>

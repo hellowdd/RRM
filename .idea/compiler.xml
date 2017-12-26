@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="rrm-business" />
+        <module name="rrm-service" />
+        <module name="rrm-util" />
+        <module name="rrm-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="rrm-business" target="1.7" />
+      <module name="rrm-parent" target="1.7" />
+      <module name="rrm-service" target="1.7" />
+      <module name="rrm-util" target="1.7" />
+      <module name="rrm-web" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

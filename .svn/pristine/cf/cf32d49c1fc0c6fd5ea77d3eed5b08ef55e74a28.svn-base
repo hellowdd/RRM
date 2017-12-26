@@ -1,0 +1,1083 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="ebbcc679-7277-4dc8-bbf8-d130ccf08921" name="Default" comment="修改office2pdf为在linux下运行">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rrm-business/.settings/org.eclipse.wst.common.project.facet.core.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rrm-service/.settings/org.eclipse.wst.common.project.facet.core.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rrm-util/.settings/org.eclipse.wst.common.project.facet.core.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rrm-web/.settings/org.eclipse.wst.common.project.facet.core.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rrm-business/.settings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rrm-business/.settings/org.eclipse.core.resources.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rrm-business/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rrm-business/.settings/org.eclipse.jst.j2ee.ejb.annotations.xdoclet.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rrm-business/.settings/org.eclipse.m2e.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rrm-business/.settings/org.eclipse.wst.common.component" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rrm-business/.settings/org.eclipse.wst.validation.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rrm-parent/.settings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rrm-parent/.settings/org.eclipse.core.resources.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rrm-parent/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rrm-parent/.settings/org.eclipse.m2e.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rrm-service/.settings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rrm-service/.settings/org.eclipse.core.resources.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rrm-service/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rrm-service/.settings/org.eclipse.m2e.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rrm-service/.settings/org.eclipse.wst.common.component" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rrm-service/.settings/org.eclipse.wst.validation.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rrm-util/.settings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rrm-util/.settings/org.eclipse.core.resources.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rrm-util/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rrm-util/.settings/org.eclipse.m2e.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rrm-util/.settings/org.eclipse.wst.common.component" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rrm-util/.settings/org.eclipse.wst.validation.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rrm-web/.externalToolBuilders" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rrm-web/.externalToolBuilders/org.eclipse.wst.jsdt.core.javascriptValidator.launch" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rrm-web/.settings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rrm-web/.settings/.jsdtscope" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rrm-web/.settings/org.eclipse.core.resources.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rrm-web/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rrm-web/.settings/org.eclipse.ltk.core.refactoring.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rrm-web/.settings/org.eclipse.m2e.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rrm-web/.settings/org.eclipse.wst.common.component" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rrm-web/.settings/org.eclipse.wst.jsdt.ui.superType.container" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rrm-web/.settings/org.eclipse.wst.jsdt.ui.superType.name" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rrm-web/.settings/org.eclipse.wst.validation.prefs" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/rrm_web_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/rrm_web_war_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rrm-business/rrm-business.iml" afterPath="$PROJECT_DIR$/rrm-business/rrm-business.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rrm-service/rrm-service.iml" afterPath="$PROJECT_DIR$/rrm-service/rrm-service.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rrm-service/src/main/java/com/bocom/service/ImageFormatService.java" afterPath="$PROJECT_DIR$/rrm-service/src/main/java/com/bocom/service/ImageFormatService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rrm-service/src/main/java/com/bocom/service/impl/ImageFormatServiceImpl.java" afterPath="$PROJECT_DIR$/rrm-service/src/main/java/com/bocom/service/impl/ImageFormatServiceImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rrm-util/rrm-util.iml" afterPath="$PROJECT_DIR$/rrm-util/rrm-util.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rrm-util/src/main/java/com/bocom/util/ShellUtils.java" afterPath="$PROJECT_DIR$/rrm-util/src/main/java/com/bocom/util/ShellUtils.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rrm-web/rrm-web.iml" afterPath="$PROJECT_DIR$/rrm-web/rrm-web.iml" />
+    </list>
+    <ignored path="$PROJECT_DIR$/rrm-service/target/" />
+    <ignored path="$PROJECT_DIR$/rrm-util/target/" />
+    <ignored path="$PROJECT_DIR$/rrm-parent/target/" />
+    <ignored path="$PROJECT_DIR$/rrm-web/target/" />
+    <ignored path="$PROJECT_DIR$/rrm-business/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="VideoServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rrm-service/src/main/java/com/bocom/service/impl/VideoServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="463">
+              <caret line="35" column="42" lean-forward="false" selection-start-line="35" selection-start-column="42" selection-end-line="35" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserRestServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rrm-service/src/main/java/com/bocom/service/user/impl/UserRestServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="635">
+              <caret line="65" column="9" lean-forward="false" selection-start-line="65" selection-start-column="9" selection-end-line="65" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ImageFormatServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rrm-service/src/main/java/com/bocom/service/impl/ImageFormatServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="74">
+              <caret line="767" column="61" lean-forward="true" selection-start-line="767" selection-start-column="4" selection-end-line="767" selection-end-column="61" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EncodingDetect.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rrm-util/src/main/java/com/bocom/util/EncodingDetect.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rrm-service/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2574">
+              <caret line="117" column="40" lean-forward="false" selection-start-line="117" selection-start-column="40" selection-end-line="117" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rrm-util/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="571">
+              <caret line="47" column="34" lean-forward="false" selection-start-line="47" selection-start-column="34" selection-end-line="47" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ImageFormatService.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/rrm-service/src/main/java/com/bocom/service/ImageFormatService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="573">
+              <caret line="79" column="51" lean-forward="true" selection-start-line="79" selection-start-column="51" selection-end-line="79" selection-end-column="51" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>mydemo</find>
+      <find>office</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>rrm</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>G:\IDEAWorkspace\RRM\rrm-service</dir>
+      <dir>G:\IDEAWorkspace\RRM</dir>
+    </dirStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/rrm-service/src/main/java/com/bocom/service/impl/ImageFormatServiceImpl.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/rrm-business/pom.xml" />
+        <option value="$PROJECT_DIR$/rrm-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/rrm-service/pom.xml" />
+        <option value="$PROJECT_DIR$/rrm-web/pom.xml" />
+        <option value="$PROJECT_DIR$/rrm-service/src/main/java/com/bocom/service/impl/VideoServiceImpl.java" />
+        <option value="$PROJECT_DIR$/rrm-service/src/main/java/com/bocom/service/VideoService.java" />
+        <option value="$PROJECT_DIR$/rrm-util/src/main/java/com/bocom/util/ShellUtils.java" />
+        <option value="$PROJECT_DIR$/rrm-service/.project" />
+        <option value="$PROJECT_DIR$/rrm-business/.project" />
+        <option value="$PROJECT_DIR$/rrm-parent/.project" />
+        <option value="$PROJECT_DIR$/rrm-util/.project" />
+        <option value="$PROJECT_DIR$/rrm-web/.project" />
+        <option value="$PROJECT_DIR$/rrm-service/src/main/java/com/bocom/service/user/impl/UserRestServiceImpl.java" />
+        <option value="$PROJECT_DIR$/rrm-util/pom.xml" />
+        <option value="$PROJECT_DIR$/rrm-service/src/main/java/com/bocom/service/impl/ImageFormatServiceImpl.java" />
+        <option value="$PROJECT_DIR$/rrm-service/src/main/java/com/bocom/service/ImageFormatService.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="G:\maven\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1" />
+    <option name="width" value="1932" />
+    <option name="height" value="1038" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="RRM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RRM" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RRM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RRM" type="462c0819:PsiDirectoryNode" />
+              <item name="rrm-business" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RRM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RRM" type="462c0819:PsiDirectoryNode" />
+              <item name="rrm-parent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RRM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RRM" type="462c0819:PsiDirectoryNode" />
+              <item name="rrm-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RRM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RRM" type="462c0819:PsiDirectoryNode" />
+              <item name="rrm-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RRM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RRM" type="462c0819:PsiDirectoryNode" />
+              <item name="rrm-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RRM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RRM" type="462c0819:PsiDirectoryNode" />
+              <item name="rrm-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RRM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RRM" type="462c0819:PsiDirectoryNode" />
+              <item name="rrm-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RRM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RRM" type="462c0819:PsiDirectoryNode" />
+              <item name="rrm-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="bocom" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RRM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RRM" type="462c0819:PsiDirectoryNode" />
+              <item name="rrm-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="bocom" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RRM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RRM" type="462c0819:PsiDirectoryNode" />
+              <item name="rrm-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="bocom" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RRM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RRM" type="462c0819:PsiDirectoryNode" />
+              <item name="rrm-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="bocom" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RRM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RRM" type="462c0819:PsiDirectoryNode" />
+              <item name="rrm-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="bocom" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RRM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RRM" type="462c0819:PsiDirectoryNode" />
+              <item name="rrm-util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RRM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RRM" type="462c0819:PsiDirectoryNode" />
+              <item name="rrm-util" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RRM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RRM" type="462c0819:PsiDirectoryNode" />
+              <item name="rrm-util" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RRM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RRM" type="462c0819:PsiDirectoryNode" />
+              <item name="rrm-util" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RRM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RRM" type="462c0819:PsiDirectoryNode" />
+              <item name="rrm-util" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RRM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RRM" type="462c0819:PsiDirectoryNode" />
+              <item name="rrm-util" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="bocom" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RRM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RRM" type="462c0819:PsiDirectoryNode" />
+              <item name="rrm-util" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="bocom" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RRM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RRM" type="462c0819:PsiDirectoryNode" />
+              <item name="rrm-web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RRM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RRM" type="462c0819:PsiDirectoryNode" />
+              <item name="rrm-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RRM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RRM" type="462c0819:PsiDirectoryNode" />
+              <item name="rrm-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RRM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RRM" type="462c0819:PsiDirectoryNode" />
+              <item name="rrm-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RRM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RRM" type="462c0819:PsiDirectoryNode" />
+              <item name="rrm-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RRM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RRM" type="462c0819:PsiDirectoryNode" />
+              <item name="rrm-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RRM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RRM" type="462c0819:PsiDirectoryNode" />
+              <item name="rrm-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="sea-modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.bocom.util" />
+      <recent name="com.bocom.service.impl" />
+      <recent name="com.bocom.service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\IDEAWorkspace\RRM\rrm-util\src\main\java\com\bocom\util" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\Mr-Wei\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="G:\IDEAWorkspace\RRM" />
+          <option name="myCopyRoot" value="G:\IDEAWorkspace\RRM" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="G:\IDEAWorkspace\RRM\.idea" />
+          <option name="myCopyRoot" value="G:\IDEAWorkspace\RRM\.idea" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="G:\IDEAWorkspace\RRM\rrm-business" />
+          <option name="myCopyRoot" value="G:\IDEAWorkspace\RRM\rrm-business" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="G:\IDEAWorkspace\RRM\rrm-parent" />
+          <option name="myCopyRoot" value="G:\IDEAWorkspace\RRM\rrm-parent" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="G:\IDEAWorkspace\RRM\rrm-service" />
+          <option name="myCopyRoot" value="G:\IDEAWorkspace\RRM\rrm-service" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="G:\IDEAWorkspace\RRM\rrm-util" />
+          <option name="myCopyRoot" value="G:\IDEAWorkspace\RRM\rrm-util" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="G:\IDEAWorkspace\RRM\rrm-web" />
+          <option name="myCopyRoot" value="G:\IDEAWorkspace\RRM\rrm-web" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="G:\IDEAWorkspace\RRM" />
+          <option name="myCopyRoot" value="G:\IDEAWorkspace\RRM" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ebbcc679-7277-4dc8-bbf8-d130ccf08921" name="Default" comment="" />
+      <created>1510126403613</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1510126403613</updated>
+      <workItem from="1510126405236" duration="1355000" />
+      <workItem from="1510129467082" duration="14056000" />
+    </task>
+    <task id="LOCAL-00001">
+      <created>1510129502027</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1510129502027</updated>
+    </task>
+    <task id="LOCAL-00002">
+      <created>1510129529315</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1510129529315</updated>
+    </task>
+    <task id="LOCAL-00003">
+      <created>1510129543218</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1510129543218</updated>
+    </task>
+    <task id="LOCAL-00004">
+      <created>1510129561517</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1510129561517</updated>
+    </task>
+    <task id="LOCAL-00005" summary="发送linux命令">
+      <created>1510129683195</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1510129683195</updated>
+    </task>
+    <task id="LOCAL-00006" summary="增加截取视频图片等方法">
+      <created>1510129799278</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1510129799278</updated>
+    </task>
+    <task id="LOCAL-00007" summary="增加截取视频图片等方法">
+      <created>1510192061879</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1510192061879</updated>
+    </task>
+    <task id="LOCAL-00008" summary="增加截取视频图片等方法">
+      <created>1510192070011</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1510192070011</updated>
+    </task>
+    <task id="LOCAL-00009">
+      <created>1510192079458</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1510192079458</updated>
+    </task>
+    <task id="LOCAL-00010">
+      <created>1510192086560</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1510192086560</updated>
+    </task>
+    <task id="LOCAL-00011">
+      <created>1510192098959</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1510192098959</updated>
+    </task>
+    <task id="LOCAL-00012" summary="修改office2pdf为在linux下运行">
+      <created>1510214961326</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1510214961326</updated>
+    </task>
+    <task id="LOCAL-00013" summary="修改office2pdf为在linux下运行">
+      <created>1510215681222</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1510215681222</updated>
+    </task>
+    <task id="LOCAL-00014" summary="工具类提交">
+      <created>1510290952302</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1510290952303</updated>
+    </task>
+    <task id="LOCAL-00015" summary="增加commons-iojar包">
+      <created>1510291065478</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1510291065478</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="15411000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1" y="0" width="1932" height="1038" extended-state="0" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Redis Servers" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973205" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25241157" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="发送linux命令" />
+    <MESSAGE value="增加截取视频图片等方法" />
+    <MESSAGE value="修改office2pdf为在linux下运行" />
+    <MESSAGE value="工具类提交" />
+    <MESSAGE value="增加commons-iojar包" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加commons-iojar包" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/rrm-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="13" column="14" lean-forward="true" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rrm-parent/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="36" lean-forward="true" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rrm-web/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1055">
+          <caret line="22" column="20" lean-forward="true" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rrm-util/src/main/java/com/bocom/util/ShellUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1101">
+          <caret line="114" column="17" lean-forward="true" selection-start-line="114" selection-start-column="17" selection-end-line="114" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rrm-util/src/main/java/com/bocom/util/ExecCommondUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rrm-business/.classpath">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rrm-business/.project">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rrm-service/.classpath">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rrm-service/.project">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rrm-util/.classpath">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rrm-util/.project">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rrm-web/.classpath">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rrm-web/.project">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rrm-parent/.project">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rrm-parent/.classpath">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rrm-service/rrm-service.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="22" column="76" lean-forward="false" selection-start-line="22" selection-start-column="76" selection-end-line="22" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rrm-business/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="60" column="23" lean-forward="false" selection-start-line="60" selection-start-column="23" selection-end-line="60" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rrm-service/src/main/java/com/bocom/service/impl/VideoServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="35" column="42" lean-forward="false" selection-start-line="35" selection-start-column="42" selection-end-line="35" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rrm-service/src/main/java/com/bocom/service/VideoService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rrm-service/src/main/java/com/bocom/service/user/UserRestService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rrm-service/src/main/java/com/bocom/service/user/impl/UserRestServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="635">
+          <caret line="65" column="9" lean-forward="false" selection-start-line="65" selection-start-column="9" selection-end-line="65" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/maven/repos/com/bocom/pc/docx4j/3.2.2/docx4j-3.2.2.jar!/org/docx4j/wml/SectPr.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="29" column="13" lean-forward="false" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/maven/repos/com/bocom/pc/docx4j/3.2.2/docx4j-3.2.2.jar!/org/docx4j/wml/P.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="32" column="13" lean-forward="false" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rrm-util/src/main/java/com/bocom/util/EncodingDetect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rrm-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2574">
+          <caret line="117" column="40" lean-forward="false" selection-start-line="117" selection-start-column="40" selection-end-line="117" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/maven/repos/com/itextpdf/itextpdf/5.5.12/itextpdf-5.5.12.jar!/com/itextpdf/text/pdf/PdfWriter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="58" column="13" lean-forward="false" selection-start-line="58" selection-start-column="13" selection-end-line="58" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rrm-util/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="571">
+          <caret line="47" column="34" lean-forward="false" selection-start-line="47" selection-start-column="34" selection-end-line="47" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rrm-service/src/main/java/com/bocom/service/impl/ImageFormatServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="767" column="61" lean-forward="true" selection-start-line="767" selection-start-column="4" selection-end-line="767" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rrm-service/src/main/java/com/bocom/service/ImageFormatService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="573">
+          <caret line="79" column="51" lean-forward="true" selection-start-line="79" selection-start-column="51" selection-end-line="79" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

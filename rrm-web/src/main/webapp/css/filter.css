@@ -1,0 +1,198 @@
+body{background: #f8faff}
+.filter-cond{width:200px;
+background:#1996e7 ; height: 346px; max-height: 383px;text-align: center;color:#fff;}
+h4{font-size:21px; font-size:2.1rem;color:#1996e7 ; text-align: center; letter-spacing: 2px; font-weight: bold;position: relative;}
+h4:before{
+    content: '';
+    background: url(../image/flogo.png) no-repeat;
+    width: 32px;
+    height: 19px;
+    position: absolute;
+   left: 475px;
+    margin-top: 3px;
+}
+input::-ms-clear{display:none;}
+select::-ms-clear{display: none;}
+select::-ms-expand { display: none; }
+select::-ms-expand { display: none !important; }
+.filter-bd select{appearance: none !important;
+
+　　-webkit-appearance: none !important;   /*去除chrome浏览器的默认下拉图片*/
+
+　　-moz-appearance: none !important;  /*去除Firefox浏览器的默认下拉图片*/}
+:-moz-placeholder {
+    /* Mozilla Firefox 4 to 18 */
+    color: #b3b3b3;
+    opacity: 1;
+}
+
+::-moz-placeholder {
+    /* Mozilla Firefox 19+ */
+    color: #b3b3b3;
+    opacity: 1;
+}
+.filter-btn{padding-left: 30px; padding-right: 30px;margin-top:20px;}
+.filter-btn p{font-size:16px; font-size:1.6rem; padding-left: 15px; padding-right: 15px; border:1px solid #fff; color:#fff; border-radius: 4px;}
+.filter-check{padding-left: 30px; padding-right: 30px; font-size:16px; font-size:1.6rem; margin-top:30px;}
+.filter-check input{background: none; border:1px solid #fff;}
+input[type=checkbox], input[type=radio]{margin: 7px 0 0;}
+
+/* 筛选内容部分 */
+.filter-bd{width:1000px;border-top:3px solid #1996e7;padding-left: 50px;padding-right: 110px; padding-top:50px; padding-bottom: 50px;}
+.mt30{margin-top:30px;}
+.table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th{border:none;}
+.filter-add{width:19px; height: 19px; display: block; background:url(../image/filter-add.png) no-repeat center center; padding-top:13px; margin-right: 20px; margin-left: 35px;}
+.filter-sub{width:19px; height: 19px; display: block; background:url(../image/filter-sub.png) no-repeat center center; padding-top:13px;}
+.plr0{padding-left: 0px !important; padding-right: 0px !important;}
+ .filter-bd select,.filter-bd input{line-height: 30px; height: 30px; border-radius: 4px; text-indent: 10px; border:1px solid #f3f3f3; font-size:16px; font-size:1.6rem;outline: none; width:100%; color:#999;}
+.table tr td:nth-child(1){width:15%;}
+.table tr td:nth-child(2){width:25%;}
+.table tr td:nth-child(3){width:45%;}
+.table tr td:nth-child(4){width:15%;}
+
+.year{padding-left:10px;color:#999;}
+.year #startYear{
+    width:116px;
+    margin-right: 3px;
+}
+.year #endYear{
+    width:116px;
+    margin-left: 2px;
+}
+.year input{width:113px; background:#1996e7 ;color:#fff;}
+
+.filter-con{margin-bottom:100px; background: #fff; box-shadow: 0 0 20px 0 rgba(0,0,0,0.2); margin-top:40px;}
+
+.filter-btn p{cursor: pointer;}
+
+/* 搜索的内容 */
+.filter-all{margin-bottom: 80px; height: 525px;}
+
+.table-con{
+    
+    height: 430px;
+}
+.table-item {
+    width: 100%;
+   
+    overflow: hidden;
+    clear: both;
+}
+
+.table-item li {
+    border-bottom: 1px solid #e6e6e6;
+    display: inline-block;
+    width:13%;
+    text-align: center;
+    line-height: 42px;
+    font-size:16px;
+    font-size:1.6rem;
+    float:left;
+    color:#999;
+}
+.table-item li span{color:#999}
+.table-item li i{margin-left: 25px; cursor: pointer;}
+.table-item li .download, .down-item{margin-top:12px;}
+.table-item a{display: block; width:100%; height: 42px; color:#999}
+ .table-item li:nth-child(1) {
+    width: 25%;
+}
+.table-item li:nth-child(1) a span{
+     width:300px;
+     overflow: hidden;
+     white-space: nowrap;
+     text-overflow: ellipsis;
+     text-align: left;
+}
+.table-item li:nth-child(2) {
+    width: 10%;
+}
+.table-item li:nth-child(3) {
+    width: 15%;
+}
+.table-item li:nth-child(4) span{width:150px; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; display: block;}
+.table-item li:nth-child(5) span{width:160px; overflow: hidden; white-space: nowrap; text-overflow: ellipsis;}
+.table-item li:nth-child(7) {
+    width: 10.6%;
+    text-align: right;
+} 
+.listall-down{margin-left: 0%;}
+
+.table-list {
+    width: 100%;
+   border-bottom:1px solid #e6e6e6;
+    overflow: hidden;
+    clear: both;
+    margin-bottom: 0px;
+}
+
+.table-list li {
+   
+    display: inline-block;
+    width:13%;
+    text-align: center;
+    line-height: 42px;
+    font-size:16px;
+    font-size:1.6rem;
+    float:left;
+    color:#999;
+}
+.table-list li span{color:#999}
+.table-list li i{margin-left: 25px; cursor: pointer;}
+.table-list li .download, .down-item{margin-top:12px;}
+.table-list a{display: block; width:100%; height: 42px; color:#999}
+ .table-list li:nth-child(1) {
+    width: 25%;
+    text-align: left;
+}
+.table-list li:nth-child(2) {
+    width: 10%;
+}
+.table-list li:nth-child(3){
+    width: 15%;
+}
+.table-list li:nth-child(7) {
+    width: 10.6%;
+    text-align: right;
+}
+
+/* 颜色 */
+.c6b{color:#6bc6f9 !important;}
+.cef{color:#efcd78 !important;}
+.c2a{color:#c2ace5 !important;}
+
+/* imgbox */
+.af-down a{color:#fff;}
+.af-down{margin-left: 2%; font-size:1.4rem; cursor: pointer;}
+.af-down i{margin-right: 10x;}
+.af-rotate i{margin-right: 10px;}
+.af-rotate{margin-left: 3%; font-size:1.4rem; cursor: pointer;}
+.fancybox-title-over-wrap{width:100%;}
+.af-title{text-align: center; font-size:1.4rem; width:250px; margin:0 auto;overflow: hidden; text-overflow: ellipsis;white-space: nowrap; margin-left: 20px;}
+.af-fr{margin-right:40px;}
+.af-fr select{color:#fff; background: none; outline: none; border:none; margin-top:1px;}
+.af-fr select option{color:#333;}
+.af-size{margin-right: 80px;}
+.layui-layer-rim{border:none;}
+.fancybox-inner{overflow: hidden;}
+.fancybox-image, .fancybox-iframe{max-width:auto; max-height: auto; display:block; width:auto; height: auto; margin:0 auto;}
+.img-name{    width: 82px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis; text-align:left;}
+    .fa-chevron-down{position: absolute; right: -71px; top:1px;}
+    .fm{right: -43px; }
+   .ar select::-ms-clear{display: none;}
+.ar select::-ms-expand { display: none; }
+/* 分页 */
+#pageContainer{float: right; margin-top:15px;}
+/* 字体图标 */
+.por{position: relative;}
+.poa{position: absolute;}
+.fil-item  td{position: relative;}
+.fil-item i{position: absolute; top:16px; right: 14px;
+    color: #999;}
+.fil-item .l2{left: 113px; top:8px; right: inherit;}
+.fil-item .l3{left: 255px; top:8px; right: inherit;}
+
+.filter-add,.filter-sub{cursor: pointer;}

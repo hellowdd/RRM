@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/RRM.iml" filepath="$PROJECT_DIR$/.idea/RRM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rrm-business/rrm-business.iml" filepath="$PROJECT_DIR$/rrm-business/rrm-business.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rrm-parent/rrm-parent.iml" filepath="$PROJECT_DIR$/rrm-parent/rrm-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rrm-service/rrm-service.iml" filepath="$PROJECT_DIR$/rrm-service/rrm-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rrm-util/rrm-util.iml" filepath="$PROJECT_DIR$/rrm-util/rrm-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rrm-web/rrm-web.iml" filepath="$PROJECT_DIR$/rrm-web/rrm-web.iml" />
+    </modules>
+  </component>
+</project>

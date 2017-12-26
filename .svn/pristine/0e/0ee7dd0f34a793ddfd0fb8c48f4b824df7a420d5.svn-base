@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>资源库</title>
+    <link href="/RRM/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="/RRM/css/swiper.min.css">
+    <link href="/RRM/css/base.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="/RRM/css/common.css">
+    <link href="/RRM/css/service.css" rel="stylesheet">
+    <!-- 图标字体库 -->
+    <link href="/RRM/css/font-awesome.min.css" rel="stylesheet">
+    <script type="text/javascript" src="/RRM/js/jquery-1.9.1.min.js"></script>
+    <script type="text/javascript" src="/RRM/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="/RRM/js/laypage-v1.3/laypage/laypage.js"></script>
+    <script type="text/javascript" src="/RRM/layer/layer.js"></script>
+    <script type="text/javascript" src="/RRM/js/common.js"></script>
+    <script type="text/javascript" src="/RRM/js/seadmin.js"></script>
+    <style type="text/css">
+     .his-check{cursor: pointer;}
+     html{background: rgba(0,0,0,0.01);}
+    </style>
+</head>
+
+<body>
+    <!--  内容 -->
+    <div class="his-con">
+        <div class="his-tit clearfix">
+            <p class="tit fleft">下载历史</p>
+            <p class="tit-num fright"></p>
+        </div>
+        <div class="his-box">
+            <!-- <div class="his-item clearfix">
+                        <div class="his-item-left fleft">
+                            <p class="his-item-kind fleft">[图片]</p>
+                            <p class="his-item-name cob3 fleft">19大会场图片</p>
+                        </div>
+                        <div class="his-item-right fright">
+                            <p class="his-item-date cob3 fleft">2017-11-13 15:45</p>
+                            <p class="his-check cob3 fleft">查看</p>
+                        </div>
+                    </div>
+                    <div class="his-item clearfix">
+                        <div class="his-item-left fleft">
+                            <p class="his-item-kind fleft">[图片]</p>
+                            <p class="his-item-name cob3 fleft">19大会场图片</p>
+                        </div>
+                        <div class="his-item-right fright">
+                            <p class="his-item-date cob3 fleft">2017-11-13 15:45</p>
+                            <p class="his-check cob3 fleft">查看</p>
+                        </div>
+                    </div>
+                    <div class="his-item clearfix">
+                        <div class="his-item-left fleft">
+                            <p class="his-item-kind cob3 fleft">[视频]</p>
+                            <p class="his-item-name cob3 fleft">19大会场图片</p>
+                        </div>
+                        <div class="his-item-right fright">
+                            <p class="his-item-date cob3 fleft">2017-11-13 15:45</p>
+                            <p class="his-check cob3 fleft">查看</p>
+                        </div>
+                    </div>
+                    <div class="his-item clearfix">
+                        <div class="his-item-left fleft">
+                            <p class="his-item-kind coef fleft">[文本]</p>
+                            <p class="his-item-name cob3 fleft">19大会场图片</p>
+                        </div>
+                        <div class="his-item-right fright">
+                            <p class="his-item-date cob3 fleft">2017-11-13 15:45</p>
+                            <p class="his-check cob3 fleft">查看</p>
+                        </div>
+                    </div>
+                    <div class="his-item clearfix">
+                        <div class="his-item-left fleft">
+                            <p class="his-item-kind fleft">[图片]</p>
+                            <p class="his-item-name cob3 fleft">19大会场图片</p>
+                        </div>
+                        <div class="his-item-right fright">
+                            <p class="his-item-date cob3 fleft">2017-11-13 15:45</p>
+                            <p class="his-check cob3 fleft">查看</p>
+                        </div>
+                    </div>
+                    <div class="his-item clearfix">
+                        <div class="his-item-left fleft">
+                            <p class="his-item-kind fleft">[图片]</p>
+                            <p class="his-item-name cob3 fleft">19大会场图片</p>
+                        </div>
+                        <div class="his-item-right fright">
+                            <p class="his-item-date cob3 fleft">2017-11-13 15:45</p>
+                            <p class="his-check cob3 fleft">查看</p>
+                        </div>
+                    </div>
+                    <div class="his-item clearfix">
+                        <div class="his-item-left fleft">
+                            <p class="his-item-kind fleft">[图片]</p>
+                            <p class="his-item-name cob3 fleft">19大会场图片</p>
+                        </div>
+                        <div class="his-item-right fright">
+                            <p class="his-item-date cob3 fleft">2017-11-13 15:45</p>
+                            <p class="his-check cob3 fleft">查看</p>
+                        </div>
+                    </div>
+                    <div class="his-item clearfix">
+                        <div class="his-item-left fleft">
+                            <p class="his-item-kind fleft">[图片]</p>
+                            <p class="his-item-name cob3 fleft">19大会场图片</p>
+                        </div>
+                        <div class="his-item-right fright">
+                            <p class="his-item-date cob3 fleft">2017-11-13 15:45</p>
+                            <p class="his-check cob3 fleft">查看</p>
+                        </div>
+                    </div>
+                    <div class="his-item clearfix">
+                        <div class="his-item-left fleft">
+                            <p class="his-item-kind fleft">[图片]</p>
+                            <p class="his-item-name cob3 fleft">19大会场图片</p>
+                        </div>
+                        <div class="his-item-right fright">
+                            <p class="his-item-date cob3 fleft">2017-11-13 15:45</p>
+                            <p class="his-check cob3 fleft">查看</p>
+                        </div>
+                    </div>
+                    <div class="his-item clearfix">
+                        <div class="his-item-left fleft">
+                            <p class="his-item-kind fleft">[图片]</p>
+                            <p class="his-item-name cob3 fleft">19大会场图片</p>
+                        </div>
+                        <div class="his-item-right fright">
+                            <p class="his-item-date cob3 fleft">2017-11-13 15:45</p>
+                            <p class="his-check cob3 fleft">查看</p>
+                        </div>
+                    </div> -->
+        </div>
+        <div id="pageContainers" class="page-container"></div>
+    </div>
+    <div class="fail-con">
+        <div class="his-tit clearfix">
+            <p class="tit fleft">上传异常</p>
+            <p class="tit-num fright"></p>
+        </div>
+        <div class="his-box">
+            <!--   <div class="his-item clearfix">
+                      <div class="his-item-left fleft">
+                          <p class="his-item-kind fleft">[图片]</p>
+                          <p class="his-item-name cob3 fleft">19大会场图片</p>
+                      </div>
+                      <div class="his-item-right fright">
+                          <p class="his-item-user cob3 fleft">王磊</p>
+                          <p class="his-item-date cob3 fleft">2017-11-13 15:45</p>
+                      </div>
+                  </div> -->
+        </div>
+        <div id="pageContainer" class="page-container"></div>
+    </div>
+</body>
+
+</html>
